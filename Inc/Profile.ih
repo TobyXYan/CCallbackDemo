@@ -1,0 +1,14 @@
+#pragma once
+//Variables file
+#ifndef _PROFOFILE_IH_
+#define _PROFOFILE_IH_
+
+extern int BaseSalary
+#ifdef _BASESALARY_
+=5000
+#else
+=3000
+#endif
+;
+
+#endif

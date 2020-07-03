@@ -1,0 +1,6 @@
+LIBRARY "DynamicCLib"
+
+EXPORTS
+	GetBriefInfo
+	TryoutCallbackFunc
+	SetCallbackFuncs

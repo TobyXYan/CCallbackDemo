@@ -1,0 +1,9 @@
+#pragma once
+// Definitions file
+
+#ifndef _PROFILE_DH_
+#define _PROFILE_DH_
+
+#define Company "Worldwide Human Union"
+
+#endif
